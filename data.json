@@ -1,0 +1,11 @@
+
+{
+    "softwares": [
+        {
+            "id": 1,
+            "name": "Notepad++",
+            "description": "A text editor!",
+            "link": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.5/npp.8.6.5.Installer.x64.exe"
+        }
+    ]
+}
