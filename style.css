@@ -1,0 +1,11 @@
+.head-fluid{
+    background-color: antiquewhite;
+    height: 30rem;
+}
+
+.data{
+    border: 1px solid black;
+    text-align: center;
+    padding: 100px;
+}
+
