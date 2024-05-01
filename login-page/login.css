@@ -1,0 +1,34 @@
+@import url(https://fonts.google.com/specimen/Poppins);
+
+body{
+    background-image: url(./images/bg-intro-desktop.png);
+    background-color: hsl(0, 100%, 74%) ;
+    font-family: Poppins;
+}
+
+.container{
+    height: 100%;
+    width: 100%;
+    margin-top: 10%;
+}
+
+.form{
+    background-color: white;
+    height: 30rem;
+    width: 50%;
+}
+
+
+.text, p{
+    color: white;
+    text-align: justify;
+}
+
+.custom-btn{
+    background-color: hsl(154, 59%, 51%);
+    color: white;
+}
+.custom-btn:hover{
+    background-color: hsl(0, 100%, 74%);
+    color: white;
+}
